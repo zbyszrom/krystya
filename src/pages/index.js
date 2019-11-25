@@ -10,7 +10,8 @@ const IndexPage = () => (
     <SEO title="Home" />
     <h1>Cześć Krystya</h1>
     <p>Witaj na swojej stronie testowej</p>
-    <p>Będziemy ją stopniowo budować</p>
+    <p>A tutaj będą eksperymenty</p>
+
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
